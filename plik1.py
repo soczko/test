@@ -129,7 +129,7 @@ def draw_image(map_2D):
 
 pygame.init()
 
-file = "mapa2.txt"
+file = "mapa1.txt"
 vel = 10
 angle = math.pi / 18
 map = []
